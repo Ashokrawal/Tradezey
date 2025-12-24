@@ -1,7 +1,7 @@
-# TradeImpact - MERN Stack Application
+# Tradezey - MERN Stack Application
 ## 🌍 Project Overview
 
-TradeImpact is a full-stack web application that visualizes how international trade agreements and import/export data impact everyday consumer goods prices. The platform connects global trade metrics to local price effects, making complex economic data accessible to general users.
+Tradezey is a full-stack web application that visualizes how international trade agreements and import/export data impact everyday consumer goods prices. The platform connects global trade metrics to local price effects, making complex economic data accessible to general users.
 
 ## Problem Statement
 Citizens often struggle to understand how international trade policies affect the prices of daily essentials like fuel, food, and electronics. Current trade data platforms are either too technical (for economists) or too simplistic (basic news articles).
