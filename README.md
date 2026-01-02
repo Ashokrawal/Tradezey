@@ -31,12 +31,9 @@ Citizens often struggle to understand how international trade policies affect th
 - Automated data refresh via cron jobs
 - Environment-based configuration
 
-## 🏗️ Architecture
 ## Tech Stack
+
 - Frontend: React.js, Tailwind CSS, Recharts, Axios
-
 - Backend: Node.js, Express.js, MongoDB, Mongoose
-
 - External APIs: WTO Timeseries API, UN Comtrade (phase 2)
-
 - Deployment: Render/Vercel, MongoDB Atlas
